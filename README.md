@@ -1,5 +1,4 @@
 # CA
-====
 
 This project implements a cellular automata simulator.
 
