@@ -1,0 +1,5 @@
+Type=WATOR
+Title=default
+Author=Team member
+Description=Default configuration of WaTor model
+InitialStates=/wator/default.csv

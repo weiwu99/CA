@@ -1,0 +1,39 @@
+. container {
+  -fx-alignment: top-center;
+}
+
+. vbox {
+  -fx-padding: 10px;
+  -fx-spacing: 10px;
+}
+
+. run-info {
+  -fx-hgap: 10px;
+  -fx-vgap: 5px;
+  -fx-padding: 5px;
+}
+
+.grid {
+  /*-fx-padding: 10px;*/
+}
+
+.button-box {
+  -fx-spacing: 10px;
+}
+
+. button {
+  -fx-padding: 10px;
+}
+
+.label {
+  -fx-padding: 5px;
+  -fx-alignment: center-left;
+}
+
+.slider {
+  -fx-alignment: center;
+}
+
+.holder {
+  -fx-alignment: center-left;
+}

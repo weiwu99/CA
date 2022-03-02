@@ -1,0 +1,5 @@
+Type=Percolation
+Title=default
+Author=Member
+Description=Default state for Spread of Fire
+InitialStates=/spread_of_fire/default.csv

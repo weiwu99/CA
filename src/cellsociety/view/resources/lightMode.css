@@ -1,0 +1,21 @@
+.root {
+  -fx-text-fill: #020406;
+  -fx-background-color: #F3F4F7;
+}
+
+.label {
+  -fx-text-fill: #020406;
+}
+
+.button,
+.color-picker,
+.choice-box {
+  -fx-text-fill: #020406;
+  -fx-background-color: #DEE4E7;
+}
+
+. button:armed,
+.color-picker:armed,
+.choice-box:armed {
+  -fx-background-color: #b1b6b8;
+}

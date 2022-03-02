@@ -1,0 +1,5 @@
+Type=SEGREGATION
+Title=default
+Author=member
+Description=Default configuration of Segregation simulation
+InitialStates=/segregation/default.csv
